@@ -1,6 +1,6 @@
 # devondocs
 # Hello, I'm Devon Johnson
-<a href="www.linkedin.com/in/devon-johnson-8aaa20287"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/devon-johnson-8aaa20287"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
